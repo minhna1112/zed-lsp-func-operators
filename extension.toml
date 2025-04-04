@@ -1,0 +1,7 @@
+id = "function-extractor"
+name = "Function Extractor"
+version = "0.1.0"
+schema_version = 1
+authors = ["Minh Nguyen <minh.a.nguyen@ucdconnect.ie>"]
+description = "Extracts function declarations from Java, Python, JavaScript, and C++ files"
+repository = "https://github.com/minhna1112/zed-lsp-func-operators"
